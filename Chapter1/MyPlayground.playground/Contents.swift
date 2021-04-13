@@ -1,4 +1,4 @@
-// Author: Andres Trujillo
+// Author: A.T.
 // Date: Tues Apr 13 5:27pm
 // Reference Book: Swift Cookbook
 
